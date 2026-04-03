@@ -1,6 +1,6 @@
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/keys.h>
-
+// THIS KEYMAP WILL BE OVERRIDDEN BY THE KEYMAP IN THE ZMK-CONFIG
 / {
     keymap {
         compatible = "zmk,keymap";
